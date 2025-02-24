@@ -1,3 +1,6 @@
+// module types.go in package iec104_evn
+// định ngĩa các dữ liệu đặc trưng của IEC104
+// chuẩn hoá lênh nhận từ EVN, cấu trúc dữ liệu Telemetry, cấu hình nâng cao cho sever
 package iec104_evn
 
 import "github.com/robinson/gos7"

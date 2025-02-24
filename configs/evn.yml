@@ -1,0 +1,7 @@
+server:
+  port: 2404
+  link_address: 1
+  asdu_address: 1000
+security:
+  tls_enabled: false
+  cert_path: "/path/to/cert.pem"

@@ -1,3 +1,8 @@
+// module commands in package iec104_evn 
+// phân loại xử lý từng loại lệnh của iec104
+// tách biết logic công viêc ra khỏi layer traánpose
+// xử lý confirm//ack cho EVN
+
 package iec104_evn
 
 import (
